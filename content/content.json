@@ -1,0 +1,38 @@
+{
+    "path": " ",
+    "selector": {
+      "title": "",
+      "contents": [
+        " "
+      ],
+      "exceptions": [
+      ],
+      "article_link": {
+        "selectors": [
+        ],
+        "patterns": [
+        ]
+      },
+      "author": {
+              "selectors": [""],
+              "pattern": {
+                  "open": "",
+                  "close": ""
+              }
+          },
+      "images": [
+        {
+          "tag": "",
+          "attr": ""
+        }
+      ],
+      "videos": [],
+      "categories": [""],
+      "tags": [""],
+      "date": {
+        "tag": "",
+        "attr": "",
+        "format": ""
+      } 
+    }
+  }
